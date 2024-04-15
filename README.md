@@ -5,6 +5,7 @@ Foram criados três triângulos (`t1`, `t2` e `t3`) com medidas de lados diferen
 Essa estrutura demonstra a capacidade do programa de manipular informações geométricas básicas, como triângulos e seus perímetros, utilizando conceitos de programação orientada a objetos em Java.
 
 
+
 A classe `Triangulo` é responsável por representar triângulos e realizar operações relacionadas a eles. Ela possui dois construtores: um para criar um triângulo com medidas específicas para cada lado (`a`, `b`, `c`) e outro para criar um triângulo equilátero, onde todos os lados têm o mesmo tamanho.
 
 O método `perimetro()` calcula e retorna o perímetro do triângulo, somando os valores dos três lados. O método `toString()` retorna uma representação em string dos lados do triângulo.
