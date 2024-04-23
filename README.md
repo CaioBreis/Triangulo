@@ -1,3 +1,5 @@
+## Triangulo
+
 O programa em Java apresentado na classe `appTriangulo` cria e exibe informações sobre diferentes triângulos usando a classe `Triangulo`. 
 
 Foram criados três triângulos (`t1`, `t2` e `t3`) com medidas de lados diferentes. Em seguida, o programa imprime as informações de cada triângulo, incluindo seus lados e tipo (baseado nas medidas fornecidas). Além disso, é calculado e exibido o perímetro de cada triângulo usando o método `perimetro()` da classe `Triangulo`.
